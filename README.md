@@ -1,2 +1,2 @@
 # Face-Detection
-Sample app that detects the pace in the given image
+Aapp that detects the faces in the given image
