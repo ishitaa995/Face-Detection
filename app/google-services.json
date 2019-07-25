@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627406465521",
+    "firebase_url": "https://face-detection-424c7.firebaseio.com",
+    "project_id": "face-detection-424c7",
+    "storage_bucket": "face-detection-424c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627406465521:android:b2aa1178e1e3e60c",
+        "android_client_info": {
+          "package_name": "coe.thbs.com.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627406465521-c9av7b9lbkncsdnjpmipobdq6g0h8e3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQk7gb1l2aFvLO7gD3gkq8k5Q0z_lQ9MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627406465521-c9av7b9lbkncsdnjpmipobdq6g0h8e3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

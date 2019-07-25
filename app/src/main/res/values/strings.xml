@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="action_camera"> Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="camera_denied">Camera denied</string>
+    <string name="storage_denied">Storage denied</string>
+</resources>
